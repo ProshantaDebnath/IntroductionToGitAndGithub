@@ -21,20 +21,20 @@ Syntax:<br>
 git commit -a -m "Commit message"
 
 ## Git Revert 
-The git revert command is used for undoing changes to a repository's commit history.
+The git revert command is used for undoing changes to a repository's commit history.<br>
 Syntax:<br>
 git revert Head<br>
 [Git Revert](https://git-scm.com/docs/git-revert)<br>
 Seeing the last two commit in the log : git log -p -2
 
 ## Git log
-The git log command displays committed snapshots
+The git log command displays committed snapshots<br>
 Syntax:<br>
 git log<br>
 git log -2 (it shows the last two commit)
 
 ## Git Show
-The git show command is used to view the changes of a specific commit.
+The git show command is used to view the changes of a specific commit.<br>
 Syntax : <br>
 Example: commit id--->01jhhkah3ooh52<br>
 git show 01jhhkah3ooh52
